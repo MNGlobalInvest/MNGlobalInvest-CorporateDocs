@@ -1,4 +1,4 @@
-# MN Global Investment Holdings, LLC  Corporate Documents
+# MN Global Investment Holdings, LLC        Corporate Documents
 
 This repository contains the official corporate, legal, compliance, governance, 
 and operational documents for **MN Global Investment Holdings, LLC**, a 
